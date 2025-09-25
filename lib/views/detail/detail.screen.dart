@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:tintin_app/models/products_model.dart';
@@ -6,6 +5,7 @@ import 'package:tintin_app/utils/consts.dart';
 import 'package:tintin_app/views/detail/components/add_to_cart.dart';
 import 'package:tintin_app/views/detail/components/characters_list.dart';
 import 'package:tintin_app/views/detail/components/description.dart';
+import 'package:tintin_app/views/detail/components/drop_down_button.dart';
 import 'package:tintin_app/views/detail/components/fav_button.dart';
 import 'package:tintin_app/views/detail/components/product_title.dart';
 
@@ -63,6 +63,8 @@ class DetailScreen extends StatelessWidget {
                         Description(product: product),
                         SizedBox(height: defaultPadding),
                         CharactersList(product: product),
+                        SizedBox(height: defaultPadding),
+                        DropDownButton(),
                         SizedBox(height: 20),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.end,
