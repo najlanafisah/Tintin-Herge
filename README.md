@@ -1,16 +1,47 @@
-# owala_app
+# Tintin Herge
 
-A new Flutter project.
+My first application development project, created while exploring the basics of programming and learning how to build an application.
+
+This project represents an early step in my coding journey and my first experience turning an idea into a working application.
+
+## Features
+
+- Basic application interface
+- Initial application functionality
+- Early exploration of application development
+
+## Tech Stack
+
+The technologies used in this project are part of my early learning experience. More details can be added after reviewing the source code.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- The development tools required by the project
+- A compatible device or environment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/najlanafisah/Tintin-Herge.git
+   cd Tintin-Herge
+   ```
+
+2. Open the project in the appropriate development environment.
+
+3. Follow the setup instructions based on the project's technology stack.
+
+## Project Structure
+
+The project structure will be documented according to the source files and folders available in the repository.
+
+## Project Status
+
+An early personal project created during my first steps into application development.
+
+## License
+
+No license has been specified for this repository.
